@@ -1,6 +1,6 @@
-# Hi there! 👋
+# Hi there 👋, I'm Nam Fam
 
-Welcome to my GitHub profile! I'm an AI Engineer.
+I'm an AI Engineer.
 
 ## 🔧 Technologies & Tools
 - **Machine Learning**: Regression, Clustering, PCA, SVM, Decision Tree, Bagging/Boosting
